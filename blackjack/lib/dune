@@ -1,0 +1,5 @@
+(library
+ (inline_tests)
+ (name blackjack)
+ (preprocess
+  (pps ppx_inline_test)))

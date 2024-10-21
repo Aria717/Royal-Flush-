@@ -1,0 +1,12 @@
+To install this game, after downloading it from CMS, open it on VS code. 
+
+You should be in the RoyalFlush directory. 
+
+Please cd into blackjack. 
+
+Please run dune build and then run dune exec bin/main.exe to start the game. 
+
+Answer the prompts on the screen in order to play the game. Please keep our requires precondition for our get_player_names function in mind.
+
+To run test cases, first clear terminal, then run dune clean, then dune build and finally dune test
+If this causes it to freeze, then exit and reopen terminal and rerun the commnds above

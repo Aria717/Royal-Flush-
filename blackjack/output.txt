@@ -1,0 +1,8 @@
+Wins per player:
+Player 1: 1
+Player 2: 0
+
+Cash per player:
+Player 1: 15
+Player 1 is the winner!
+Winner winner chicken dinner!

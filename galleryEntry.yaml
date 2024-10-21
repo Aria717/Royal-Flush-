@@ -1,0 +1,34 @@
+---
+# Members of your group.
+group:
+  - name: Advika Ravi Kumar
+    netid: ar732
+  - name: Sruthi Suresh
+    netid: sls463
+  - name: Ishaan Nanal
+    netid: isn6
+  - name: Aaradhyaa Gyawali
+    netid: ag2223
+# Your PM.
+pm:
+  name: Lukman Moyosore
+  netid: lom4
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Royal Flush"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jjy33/RoyalFlush"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+We implemented a game of standard blackjack. When the game starts, the interface 
+asks for number of players. Single players will play against the 
+computer. Multi-player implementations get to choose up to 4 additional players.
+The computer is the dealer. Module types exist for players and cards. The backend will
+return the pair of cards for each respective player. Rounds will ask each 
+player whether they would like to hit or stand. Hit will result in the dealing 
+of a new card. If it’s an Ace, the player can count it as a 1 or 11. Stand ends 
+that player’s turn, and then after everyone has gone, the winning player’s name 
+and the scores will be printed. 
